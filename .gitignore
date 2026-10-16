@@ -21,6 +21,8 @@ dist/
 
 # Mac System Files
 .DS_Store
+j2objc-3.1
+*.zip
 
 # IntelliJ IDEA Files
 *.iml
